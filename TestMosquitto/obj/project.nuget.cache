@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IOkvnFNgLTisqc6rcaG2lMsam8cl6lF6Ijmus0EhrPtULzTU6pSNBXYeJmMx1xK8FFVtt+4aunR00zaYvhKqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flori\\source\\repos\\TestMosquitto\\TestMosquitto\\TestMosquitto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flori\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\mqttnet.aspnetcore\\4.1.4.563\\mqttnet.aspnetcore.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.1.4.563\\mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}
